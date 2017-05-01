@@ -1,0 +1,2 @@
+2017-04-30 15:50:59,539 [1] INFO  SmapleProject.Models.SampleClass [(null)] - Info logging
+2017-04-30 15:50:59,588 [1] DEBUG SmapleProject.Models.SampleClass [(null)] - Debug message sample

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="DoSomeSampleStuff method" Url="html/972e2303-1d63-4de0-4e61-92722fe6127a.htm" />
+  <HelpKINode Title="Main method" Url="html/f37c16bb-875e-af4f-b7fe-e739cdcacabf.htm" />
+  <HelpKINode Title="SampleClass class">
+    <HelpKINode Title="SampleClass Class" Url="html/cf9d1e9e-3399-33a9-076d-3388a6f6997d.htm" />
+    <HelpKINode Title="about SampleClass class" Url="html/cf9d1e9e-3399-33a9-076d-3388a6f6997d.htm" />
+    <HelpKINode Title="constructor" Url="html/5e3fd383-8fb0-a0ad-0fcc-d7be216b1a75.htm" />
+    <HelpKINode Title="fields" Url="html/73c036c5-5849-06f0-da68-373ef87b86c9.htm" />
+    <HelpKINode Title="methods" Url="html/f4e4ec85-81dc-eefe-a14a-4ee0a68ca028.htm" />
+    <HelpKINode Title="properties" Url="html/44c4c367-85bd-419c-f204-d41e11f2b83a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SampleClass.DoSomeSampleStuff method" Url="html/972e2303-1d63-4de0-4e61-92722fe6127a.htm" />
+  <HelpKINode Title="SampleClass.SampleClass constructor" Url="html/5e3fd383-8fb0-a0ad-0fcc-d7be216b1a75.htm" />
+  <HelpKINode Title="SampleClass.sampleText field" Url="html/0b7c2244-5575-330c-6e7d-0c46b42ded13.htm" />
+  <HelpKINode Title="SampleClass.SampleText property" Url="html/fff56e79-0ef5-f6ea-e9a6-37cf8721c56c.htm" />
+  <HelpKINode Title="sampleText field" Url="html/0b7c2244-5575-330c-6e7d-0c46b42ded13.htm" />
+  <HelpKINode Title="SampleText property" Url="html/fff56e79-0ef5-f6ea-e9a6-37cf8721c56c.htm" />
+  <HelpKINode Title="SmapleProject namespace" Url="html/e8ae83fe-7b32-faf9-64e8-6e8c34bc41cc.htm" />
+  <HelpKINode Title="SmapleProject.Models namespace" Url="html/a93b2553-9708-5401-a188-8d0f57f311b3.htm" />
+  <HelpKINode Title="SmapleProject.Models.SampleClass class" Url="html/cf9d1e9e-3399-33a9-076d-3388a6f6997d.htm" />
+  <HelpKINode Title="SmapleProject.StartUp class" Url="html/e6dd53d7-02c2-9e6b-f4c9-126dfbe220da.htm" />
+  <HelpKINode Title="StartUp class">
+    <HelpKINode Title="StartUp Class" Url="html/e6dd53d7-02c2-9e6b-f4c9-126dfbe220da.htm" />
+    <HelpKINode Title="about StartUp class" Url="html/e6dd53d7-02c2-9e6b-f4c9-126dfbe220da.htm" />
+    <HelpKINode Title="constructor" Url="html/ab35ec14-64d6-7df7-e1de-4c39eadbf917.htm" />
+    <HelpKINode Title="methods" Url="html/685795a6-5850-6a45-7d3e-621bb50b091b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StartUp.Main method" Url="html/f37c16bb-875e-af4f-b7fe-e739cdcacabf.htm" />
+  <HelpKINode Title="StartUp.StartUp constructor" Url="html/ab35ec14-64d6-7df7-e1de-4c39eadbf917.htm" />
+</HelpKI>

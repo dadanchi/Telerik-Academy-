@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="b43bb9e7-3c02-4897-a1b8-0ffdd869f0f9" Title="SmapleProject" Url="html/e8ae83fe-7b32-faf9-64e8-6e8c34bc41cc.htm">
+    <HelpTOCNode Id="f6463f92-b2ef-4375-b820-0ad0204303df" Title="StartUp Class" Url="html/e6dd53d7-02c2-9e6b-f4c9-126dfbe220da.htm">
+      <HelpTOCNode Title="StartUp Constructor " Url="html/ab35ec14-64d6-7df7-e1de-4c39eadbf917.htm" />
+      <HelpTOCNode Id="ccd6a529-01d8-4630-86d7-b8f59e905848" Title="StartUp Methods" Url="html/685795a6-5850-6a45-7d3e-621bb50b091b.htm">
+        <HelpTOCNode Title="Main Method " Url="html/f37c16bb-875e-af4f-b7fe-e739cdcacabf.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d5658d93-de05-48b7-bc5f-ca865e8aaa62" Title="SmapleProject.Models" Url="html/a93b2553-9708-5401-a188-8d0f57f311b3.htm">
+    <HelpTOCNode Id="f30e3b23-80ff-4f82-9fa4-faacc8f20066" Title="SampleClass Class" Url="html/cf9d1e9e-3399-33a9-076d-3388a6f6997d.htm">
+      <HelpTOCNode Title="SampleClass Constructor " Url="html/5e3fd383-8fb0-a0ad-0fcc-d7be216b1a75.htm" />
+      <HelpTOCNode Id="1655908c-027e-4f63-abb8-09471ce8988e" Title="SampleClass Fields" Url="html/73c036c5-5849-06f0-da68-373ef87b86c9.htm">
+        <HelpTOCNode Title="sampleText Field" Url="html/0b7c2244-5575-330c-6e7d-0c46b42ded13.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="281264ee-00d0-4802-9f74-c120b68783e5" Title="SampleClass Methods" Url="html/f4e4ec85-81dc-eefe-a14a-4ee0a68ca028.htm">
+        <HelpTOCNode Title="DoSomeSampleStuff Method " Url="html/972e2303-1d63-4de0-4e61-92722fe6127a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9005641a-8030-4cec-a763-3cd1bc29debc" Title="SampleClass Properties" Url="html/44c4c367-85bd-419c-f204-d41e11f2b83a.htm">
+        <HelpTOCNode Title="SampleText Property " Url="html/fff56e79-0ef5-f6ea-e9a6-37cf8721c56c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
